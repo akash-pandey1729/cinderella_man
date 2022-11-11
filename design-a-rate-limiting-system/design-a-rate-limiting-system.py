@@ -7,12 +7,9 @@ class RateLimiter:
         
 
     def shouldAllow(self, timestamp: int) -> bool:
-        # print(self.allowedList)
         if len(self.allowedList)<self.n:
-            # print("here, ", timestamp)
             self.allowedList.append(timestamp)
             return True
-        
         idx = bisect.bisect_left(self.allowedList, timestamp - self.t +1)
         if len(self.allowedList) - idx < self.n:
             self.allowedList.append(timestamp)
