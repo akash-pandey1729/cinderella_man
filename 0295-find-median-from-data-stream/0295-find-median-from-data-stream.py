@@ -4,8 +4,7 @@ class MedianFinder:
         self.stream = []
         
     def addNum(self, num: int) -> None:
-        idx = bisect.bisect(self.stream, num)
-        self.stream.insert(idx,num)
+        bisect.insort_left(self.stream, num)
         
 
     def findMedian(self) -> float:
