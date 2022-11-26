@@ -9,9 +9,6 @@ class Solution:
                 stack.pop()
             _left[i] = i - stack[-1] if stack else i+1
             stack.append(i)
-        # print(stack)
-        # print(_left)
-        # print()
         
         _right = [1]*n
         stack = [n-1]
@@ -20,8 +17,7 @@ class Solution:
                 stack.pop()
             _right[i] = stack[-1] - i if stack else n -i
             stack.append(i)
-        # print(stack)
-        # print(_right)
+
         ans = 0
         for i in range(n):
             ans += _right[i]*_left[i]*arr[i]
