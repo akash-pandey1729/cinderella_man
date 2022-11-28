@@ -11,7 +11,7 @@ class Solution:
             dict1[x]["Win"]+=1
             dict1[y]["Loss"]+=1
         for key in dict1:
-            if dict1[key]["Loss"] == 0 and dict1[key]["Win"]>0:
+            if dict1[key]["Loss"] == 0:
                 res[0].append(key)
             if dict1[key]["Loss"] == 1:
                 res[1].append(key)
