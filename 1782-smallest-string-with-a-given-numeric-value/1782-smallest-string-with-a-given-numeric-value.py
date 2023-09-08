@@ -1,18 +1,13 @@
-# number+96  is done to get ascii value of lowercase character corresponding to the number
 class Solution:
-    def __init__(self):
-        self.result = []
-
-    def recursive_find(self, number, remaining):
-        if remaining == 1: # Just one spot is remaining, use the character itself
-            self.result.append(chr(number+96))
-            return
-
-        maximum_can_use = min(26, number - remaining + 1) # Find the biggest character you can use
-        char = chr(maximum_can_use + 96)
-        self.result.append(char)
-        self.recursive_find(number-maximum_can_use, remaining-1)
-
     def getSmallestString(self, n: int, k: int) -> str:
-        self.recursive_find(k, n)
-        return ''.join(self.result[::-1])
+        ans = ['a']*n  # Initialize the answer to be 'aaa'.. length n
+        val = n           #Value would be length as all are 'a'
+        
+        for i in range(n-1, -1, -1):    
+            if val == k:           # if value has reached k, we have created our lexicographically smallest string
+                break
+            val -= 1                # reduce value by one as we are removing 'a' and replacing by a suitable character
+            ans[i] = chr(96 + min(k - val, 26))   # replace with a character which is k - value or 'z'
+            val += ord(ans[i]) - 96                     # add the value of newly appended character to value
+            
+        return ''.join(ans)                                 # return the ans string in the by concatenating the list
