@@ -1,26 +1,21 @@
-"""
-# Definition for a Node.
-class Node:
-    def __init__(self, val: int = 0, left: 'Node' = None, right: 'Node' = None, next: 'Node' = None):
-        self.val = val
-        self.left = left
-        self.right = right
-        self.next = next
-"""
-
 class Solution:
     def connect(self, root: 'Node') -> 'Node':
         if not root:
-            return root
-        stack = [root]
+            return None
+        stack = []
+        stack.append(root)
+        dummy=Node(-999) # to initialize with a not null prev
         while stack:
-            n = len(stack)
-            for i in range(n-1):
-                stack[i].next = stack[i+1]
-            for i in range(n):
-                temp = stack.pop(0)
-                if temp.left:
-                    stack.append(temp.left)
-                if temp.right:
-                    stack.append(temp.right)
+            length=len(stack) # find level length
+            prev=dummy
+            for _ in range(length): # iterate through all nodes in the same level
+                popped=stack.pop(0)
+                if popped.left:
+                    stack.append(popped.left)
+                    prev.next=popped.left
+                    prev=prev.next
+                if popped.right:
+                    stack.append(popped.right)
+                    prev.next=popped.right
+                    prev=prev.next                 
         return root
