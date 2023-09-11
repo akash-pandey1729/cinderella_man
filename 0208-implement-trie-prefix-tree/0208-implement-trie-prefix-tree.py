@@ -6,17 +6,17 @@ class Trie:
     def insert(self, word: str) -> None:
         def help(word, dict1):
             if not word:
-                dict1['word'] = True
+                dict1['end'] = True
                 return
             if word[0] not in dict1:
-                dict1[word[0]] = {"word": False}
+                dict1[word[0]] = {"end": False}
             help(word[1:], dict1[word[0]])
         help(word, self.root_dict)
         # print(self.root_dict)
         
     def search(self, word: str) -> bool:
         def help(word, dict1):
-            if not word and dict1['word']:
+            if not word and dict1['end']:
                 return True
             if not word or word[0] not in dict1:
                 return False
