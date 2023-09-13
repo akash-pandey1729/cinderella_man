@@ -1,15 +1,17 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
+        nums = [[num] for num in nums]
         def mergeSort(nums):
-            if len(nums)==0:
-                return []
-            if len(nums)==1:
-                return nums
-            else:
-                pivot = len(nums)//2
-                left = mergeSort(nums[0:pivot])
-                right = mergeSort(nums[pivot:])
-                return merge(left,right)
+            while len(nums)>1:
+                new = []
+                for i in range(0,len(nums),2):
+                    if i==len(nums)-1:
+                        new.append(nums[i])
+                        continue
+                    new.append(merge(nums[i], nums[i+1]))
+                nums = new
+            return nums[0]
+
         def merge(list1,list2):
             l = []
             while(len(list1)>0 and len(list2)>0):
