@@ -12,7 +12,7 @@ class Solution:
             if knows(celeb, i):
                 return -1
         for i in range(n):
-            if not knows(i, celeb):
+            if not knows(i,celeb):
                 return -1
         return celeb
         
