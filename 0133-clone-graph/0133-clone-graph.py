@@ -8,29 +8,22 @@ class Node:
 
 from typing import Optional
 class Solution:
-    def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+    def cloneGraph(self, node):
+        """
+        :type node: Node
+        :rtype: Node
+        """
         dict1 = {}
-        def help(node):
+        def dfs(node):
             if not node:
-                return 
-            dict1[node] = Node(node.val)
-            for neighbor in node.neighbors:
-                if neighbor not in dict1:
-                    help(neighbor)
-        help(node)
-        visited = set()
-        def help1(node):
-            if not node:
-                return None
-            temp = dict1[node] 
-            visited.add(node)
-            for neighbor in node.neighbors:
-                if dict1[neighbor] not in temp.neighbors:
-                    temp.neighbors.append(dict1[neighbor])
-                if neighbor not in visited:
-                    help1(neighbor)
-            return temp
-        return help1(node)
+                return node
+            if node in dict1:
+                return dict1[node]
+            dict1[node] = Node(node.val,[])
+            if node.neighbors:
+                 dict1[node].neighbors = [dfs(n) for n in node.neighbors]
+            return dict1[node]
+        return dfs(node)
 
 
         
