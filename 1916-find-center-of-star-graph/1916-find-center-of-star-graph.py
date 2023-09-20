@@ -1,14 +1,12 @@
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
-        adjacency = defaultdict(list)
-        nodes = set()
+        adjacency = [0 for i in range(len(edges) + 1)]
         for x,y in edges:
-            nodes.add(x)
-            nodes.add(y)
-            adjacency[x].append(y)
-            adjacency[y].append(x)
-        for key in adjacency.keys():
-            if len(adjacency[key]) == len(nodes)-1:
-                return key
+            adjacency[x-1]+=1
+            adjacency[y-1]+=1
+        _max = max(adjacency)
+        for i in range(len(adjacency)):
+            if adjacency[i] == _max:
+                return i+1
         
         
