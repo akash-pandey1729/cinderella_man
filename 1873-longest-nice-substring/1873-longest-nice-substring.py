@@ -1,11 +1,7 @@
 class Solution:
     def longestNiceSubstring(self, s: str) -> str:
-        def IsNice(str1):
-            cnt = Counter(str1)
-            for s in str1:
-                if s.upper() not in cnt or s.lower() not in cnt:
-                    return False
-            return True
+        def IsNice(s):
+            return len(set(s.lower())) == (len(set(s)) // 2)
         ans = 0
         # print(IsNice("Bb"))
         temp = ""
