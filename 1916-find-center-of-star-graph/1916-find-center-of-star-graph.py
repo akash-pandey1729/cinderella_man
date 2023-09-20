@@ -1,12 +1,8 @@
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
-        adjacency = [0 for i in range(len(edges) + 1)]
-        for x,y in edges:
-            adjacency[x-1]+=1
-            adjacency[y-1]+=1
-        _max = max(adjacency)
-        for i in range(len(adjacency)):
-            if adjacency[i] == _max:
-                return i+1
-        
-        
+        first=edges[0][0]
+        second=edges[0][1]
+        if edges[1][0]==first or edges[1][1]==first:
+            return first
+        return second
+    #please upvote me it would encourage me alot
