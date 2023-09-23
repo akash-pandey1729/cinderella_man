@@ -1,6 +1,6 @@
 class Solution:
     def longestStrChain(self, words: List[str]) -> int:
-        dict1 = {}
+        words.sort(key = lambda x:len(x))
         def isChained(w1, w2):
             if len(w1)!=len(w2)-1:
                 return False
@@ -11,20 +11,14 @@ class Solution:
                         i+=1
                     j+=1
                 return i==len(w1)
-        def func(word):
-            if len(word) == 1:
-                return 1
-            if word not in dict1:
-                temp = 1
-                for w in words:
-                    if isChained(w,word):
-                        temp = max(temp, func(w) +1)
-                dict1[word] = temp
-            return dict1[word]
-        ans = 0
-        for word in words:
-            ans = max(ans, func(word))
-        return ans
+        dp = [1]*len(words)
+        for i in range(1, len(words)):
+            for j in range(0,i):
+                    if isChained(words[j],words[i]):
+                        dp[i] = max(dp[i],dp[j]+1)
+                    
+        # print(dp)
+        return max(dp)
 
 
 
