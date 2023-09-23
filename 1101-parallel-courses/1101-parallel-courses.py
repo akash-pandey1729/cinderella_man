@@ -1,41 +1,31 @@
 import copy
 class Solution:
     def minimumSemesters(self, n: int, relations: List[List[int]]) -> int:
-        dict1 = {}
-        indegree = [0 for i in range(n+1)]
+        dict1 = defaultdict(list)
+        indegree = [0 for i in range(n)]
         for prevCourse,nextCourse in relations:
-            if prevCourse not in dict1:
-                dict1[prevCourse] = [nextCourse]
-            else:
-                dict1[prevCourse].append(nextCourse)
-            indegree[nextCourse]+=1
+            dict1[prevCourse -1].append(nextCourse-1)
+            indegree[nextCourse-1]+=1
         stack = []
-        stack_copy = []
-        selections = []
-        for i in range(n+1):
-            if i!=0 and indegree[i]==0:
-                if i in dict1:
-                    stack.append(i)
-                else:
-                    selections.append(i)   
+        for i in range(n):
+            if indegree[i] == 0:
+                stack.append(i) 
         t = 0
+        selections = set()
         while stack:
-            t=t+1
-            while stack:
-                temp = stack.pop(0)
-                if temp not in selections:
-                    selections.append(temp)
-                for i in dict1[temp]:
-                    indegree[i]-=1
-                    if indegree[i]==0:
-                        if i in dict1:
-                            stack_copy.append(i)
-                        else:
-                            selections.append(i)
-            stack = copy.deepcopy(stack_copy)
-            stack_copy = []
-        return t+1 if len(selections)==n else -1
-                
+            t+=1
+            l = len(stack)
+            for i in range(l):
+                course = stack.pop(0)
+                selections.add(course)
+                for c in dict1[course]:
+                    indegree[c]-=1
+                    if indegree[c]==0:
+                        stack.append(c)
+        return t if len(selections)==n else -1
+
+
+        
                     
                 
             
