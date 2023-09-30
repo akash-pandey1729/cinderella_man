@@ -9,8 +9,8 @@ class Solution:
             min_array[i] = min(min_array[i - 1], nums[i])
 
         for j in range(len(nums) - 1, -1, -1):
-            # if nums[j] <= min_array[j]:
-            #     continue
+            if nums[j] <= min_array[j]:
+                continue
             while stack and stack[-1] <= min_array[j]:
                 stack.pop()
             if stack and stack[-1] < nums[j]:
