@@ -22,7 +22,7 @@ class Solution:
             return moves
         moves_A = getmoves('A', 'B')
         moves_B = getmoves('B', 'A')
-        return moves_A>moves_B
+        return moves_A>moves_B if moves_A!=0 else False
 
 
 
