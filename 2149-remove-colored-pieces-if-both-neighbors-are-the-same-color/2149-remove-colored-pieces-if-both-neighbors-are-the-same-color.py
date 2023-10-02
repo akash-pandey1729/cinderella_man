@@ -2,10 +2,6 @@ class Solution:
     def winnerOfGame(self, colors: str) -> bool:
         if len(colors)<=2:
             return False
-        conseq_B = 0
-        moves_A = 0
-        moves_B = 0
-        prev = colors[0]
         def getmoves(l1, l2):
             moves = 0
             prev = colors[0]
