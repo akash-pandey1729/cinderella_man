@@ -1,7 +1,7 @@
 class MyHashMap:
 
     def __init__(self):
-        self.key_space = 2069
+        self.key_space = 1000
         self.dict1 = [[] for i in range(self.key_space)]
 
     def put(self, key: int, value: int) -> None:
