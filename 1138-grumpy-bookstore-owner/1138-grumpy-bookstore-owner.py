@@ -18,16 +18,12 @@ class Solution:
         ans = 0
         satisfied.insert(0,0)
         sum_array.insert(0,0)
-        print(satisfied)
-        print(sum_array)
+        # print(satisfied)
+        # print(sum_array)
         for i in range(len(customers)-minutes+1):
-            print("i is", i)
             ans = max(ans, sum_array[i+minutes]-sum_array[i] + satisfied[i] + satisfied[-1]-satisfied[i+minutes])
         return ans
-            
-            
-        [1,0,7,5,1,1,1,0]     
-        [0,1,0,1,0,1,0,1]   
+       
 
 
 
