@@ -2,7 +2,6 @@ class Solution:
     def integerBreak(self, n: int) -> int:
         dict1 = {}
         def helper(n, parts):
-            # print(n,parts)
             if parts==n:
                 return 1
             if (n, parts) not in dict1:
