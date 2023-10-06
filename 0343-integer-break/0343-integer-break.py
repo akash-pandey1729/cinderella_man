@@ -1,14 +1,10 @@
 class Solution:
     def integerBreak(self, n: int) -> int:
-        if n==2 or n==3:
-            return n-1
         dict1 = {}
         def helper(n, parts):
             # print(n,parts)
-            if n<2:
-                return 0
-            if parts==1:
-                return n
+            if parts==n:
+                return 1
             if (n, parts) not in dict1:
                 ans = 0
                 for part in range(2,n+1):
