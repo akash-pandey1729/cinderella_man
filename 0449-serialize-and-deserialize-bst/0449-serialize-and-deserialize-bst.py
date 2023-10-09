@@ -19,10 +19,7 @@ class Codec:
             res.append(str(root.val))
         postorder(root)
         temp = ",".join(res)
-        return temp
-
-
-        
+        return temp  
 
     def deserialize(self, data: str) -> Optional[TreeNode]:
         """Decodes your encoded data to tree.
