@@ -18,7 +18,6 @@ class Solution:
                 if nums[m]<=target:
                     return right(m+1, r)
             return r
-        print("here",left(),right())
         ans = [-1,-1]
         if left()<len(nums) and nums[left()]==target:
             ans[0] = left()
