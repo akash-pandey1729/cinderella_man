@@ -1,17 +1,17 @@
 class Solution:
     def maxDotProduct(self, nums1: List[int], nums2: List[int]) -> int:
         @cache
-        def dp(i, j):
-            if i == len(nums1) or j == len(nums2):
+        def helper(p=0,q=0):
+            if p>=len(nums1) or q>=len(nums2):
                 return 0
-            
-            use = nums1[i] * nums2[j] + dp(i + 1, j + 1)
-            return max(use, dp(i + 1, j), dp(i, j + 1))
-            
+            else:
+                return  max(helper(p,q+1), helper(p+1,q), (nums1[p])*(nums2[q]) + helper(p+1,q+1)) 
         if max(nums1) < 0 and min(nums2) > 0:
             return max(nums1) * min(nums2)
         
         if min(nums1) > 0 and max(nums2) < 0:
             return min(nums1) * max(nums2)
+        return helper()
+
+
         
-        return dp(0, 0)
