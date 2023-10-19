@@ -3,7 +3,6 @@ import ("fmt"; "bytes")
 func getFinalString(s string) []byte {
         var slice []byte
         for i:=0; i<len(s);i++{
-            fmt.Println(slice)
             if len(slice)>0 && s[i]== '#'{
                 slice = slice[:len(slice)-1]
             }
@@ -17,7 +16,6 @@ func getFinalString(s string) []byte {
     }
 func backspaceCompare(s string, t string) bool {
     // fmt.Println(getFinalString(s))
-    fmt.Println(getFinalString(t))
     return bytes.Equal(getFinalString(s), getFinalString(t))
     
 }
