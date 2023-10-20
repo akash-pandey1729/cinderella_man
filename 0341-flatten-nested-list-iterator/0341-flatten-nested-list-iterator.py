@@ -26,16 +26,14 @@ class NestedIterator:
         self.ans = []
         def func(nestedList):
             if nestedList.isInteger():
-                self.ans.append(nestedList.getInteger())
+                return [nestedList.getInteger()]
+            ans = []
             l = nestedList.getList()
             for element in l:
-                func(element)
+                ans.extend(func(element))
+            return ans
         for e in self.nestedList:
-            func(e)
-        # print(self.ans)
-
-        
-    
+            self.ans.extend(func(e))
     def next(self) -> int:
         return self.ans.pop(0)
 
