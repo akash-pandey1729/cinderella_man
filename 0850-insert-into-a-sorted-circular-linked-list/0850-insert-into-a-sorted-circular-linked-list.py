@@ -17,7 +17,7 @@ class Solution:
             if prev.val<=insertVal and curr.val>= insertVal:
                 prev.next = Node(insertVal, curr)
                 return head
-            elif prev.val > curr.val:
+            if prev.val > curr.val:
                 if insertVal >= prev.val or insertVal <= curr.val:
                     prev.next = Node(insertVal, curr)
                     return head
