@@ -1,15 +1,26 @@
 class MedianFinder:
 
     def __init__(self):
-        self.stream = []
-        
+        self.heap_max = []
+        self.heap_min = []
+
     def addNum(self, num: int) -> None:
-        bisect.insort_left(self.stream, num)
+        heapq.heappush(self.heap_max, -num)
+        if len(self.heap_max)>len(self.heap_min):
+            heapq.heappush(self.heap_min, -heapq.heappop(self.heap_max))
+
+        if len(self.heap_min)>len(self.heap_max):
+            heapq.heappush(self.heap_max, -heapq.heappop(self.heap_min))
+        
+    def findMedian(self) -> float:
+        if len(self.heap_min)==len(self.heap_max):
+            return float((-self.heap_max[0] + self.heap_min[0])/2)
+        return float(-self.heap_max[0])
+        
         
 
-    def findMedian(self) -> float:
-        t = len(self.stream)
-        if t%2==1:
-            return self.stream[t//2]
-        else:
-            return (self.stream[t//2 -1] + self.stream[t//2])/2
+
+# Your MedianFinder object will be instantiated and called as such:
+# obj = MedianFinder()
+# obj.addNum(num)
+# param_2 = obj.findMedian()
