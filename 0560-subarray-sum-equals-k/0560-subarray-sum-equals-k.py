@@ -1,14 +1,19 @@
 class Solution:
-    def subarraySum(self, nums: List[int], k: int) -> int:
-        dict1 = defaultdict(int)
-        dict1[0] = 1
-        ans = 0
-        res = 0
-        for i in range(len(nums)):
-            ans+= nums[i]
-            if ans-k in dict1:
-                res+= dict1[ans-k]
-            dict1[ans]+=1
-        return res
+	def subarraySum(self, nums: List[int], k: int) -> int:
 
-            
+		ans=0
+		prefsum=0
+		d={0:1}
+
+		for num in nums:
+			prefsum = prefsum + num
+
+			if prefsum-k in d:
+				ans = ans + d[prefsum-k]
+
+			if prefsum not in d:
+				d[prefsum] = 1
+			else:
+				d[prefsum] = d[prefsum]+1
+
+		return ans
