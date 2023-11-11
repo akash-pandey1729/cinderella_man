@@ -10,11 +10,9 @@ class Solution:
         def dfs(root, path):
             nonlocal ans
             if not root.left and not root.right:
-                print(path)
                 ans+= int( "".join(path + [str(root.val)]))
                 return
             if not root.right and root.left:
-                print("left")
                 dfs(root.left, path + [str(root.val)])
             elif not root.left and root.right:
                 dfs(root.right,path+[str(root.val)])
