@@ -18,6 +18,7 @@ My collection of LeetCode questions that I have solved
 # Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0040-combination-sum-ii) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 # Two Pointers
 |  |
@@ -27,3 +28,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
+# Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0040-combination-sum-ii) |
