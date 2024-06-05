@@ -6,10 +6,12 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 # String
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 # Greedy
 |  |
 | ------- |
@@ -20,6 +22,7 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0040-combination-sum-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0040-combination-sum-ii) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
+| [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 # Two Pointers
 |  |
 | ------- |
