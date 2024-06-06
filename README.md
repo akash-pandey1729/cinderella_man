@@ -6,6 +6,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
+| [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 # String
 |  |
@@ -23,6 +24,7 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0040-combination-sum-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0040-combination-sum-ii) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 # Two Pointers
@@ -45,6 +47,7 @@ My collection of LeetCode questions that I have solved
 # Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 # Prefix Sum
 |  |
