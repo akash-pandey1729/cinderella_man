@@ -33,6 +33,7 @@ My collection of LeetCode questions that I have solved
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akash-pandey1729/cinderella_man/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3374-count-alternating-subarrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/3374-count-alternating-subarrays) |
 # Two Pointers
 |  |
 | ------- |
@@ -97,3 +98,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/akash-pandey1729/cinderella_man/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+# Math
+|  |
+| ------- |
+| [3374-count-alternating-subarrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/3374-count-alternating-subarrays) |
