@@ -32,6 +32,7 @@ My collection of LeetCode questions that I have solved
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akash-pandey1729/cinderella_man/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 # Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akash-pandey1729/cinderella_man/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 # Prefix Sum
 |  |
 | ------- |
