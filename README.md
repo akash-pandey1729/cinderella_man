@@ -64,6 +64,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/akash-pandey1729/cinderella_man/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 # Breadth-First Search
 |  |
@@ -86,3 +87,11 @@ My collection of LeetCode questions that I have solved
 | [0286-walls-and-gates](https://github.com/akash-pandey1729/cinderella_man/tree/master/0286-walls-and-gates) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
+# Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/akash-pandey1729/cinderella_man/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/akash-pandey1729/cinderella_man/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
