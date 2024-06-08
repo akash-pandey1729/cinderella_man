@@ -30,6 +30,7 @@ My collection of LeetCode questions that I have solved
 | [0286-walls-and-gates](https://github.com/akash-pandey1729/cinderella_man/tree/master/0286-walls-and-gates) |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
+| [0907-koko-eating-bananas](https://github.com/akash-pandey1729/cinderella_man/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
@@ -56,6 +57,7 @@ My collection of LeetCode questions that I have solved
 # Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/akash-pandey1729/cinderella_man/tree/master/0907-koko-eating-bananas) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 # Sliding Window
