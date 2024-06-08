@@ -13,11 +13,13 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 # Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
 # Array
@@ -102,3 +104,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [3374-count-alternating-subarrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/3374-count-alternating-subarrays) |
+# Stack
+|  |
+| ------- |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
