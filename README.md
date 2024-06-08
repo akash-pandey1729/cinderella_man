@@ -31,6 +31,7 @@ My collection of LeetCode questions that I have solved
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
@@ -59,6 +60,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akash-pandey1729/cinderella_man/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 # Prefix Sum
@@ -84,6 +86,7 @@ My collection of LeetCode questions that I have solved
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
 # Matrix
@@ -108,3 +111,15 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
