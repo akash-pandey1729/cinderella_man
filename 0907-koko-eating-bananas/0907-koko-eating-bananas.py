@@ -8,7 +8,7 @@ class Solution:
                 else:
                     h+= 1+ pile//k
             return h
-        print(getHours(24))
+
         left = 1
         right = max(piles)
         while left<right:
