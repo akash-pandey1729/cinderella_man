@@ -103,6 +103,7 @@ My collection of LeetCode questions that I have solved
 # Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0092-reverse-linked-list-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/akash-pandey1729/cinderella_man/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 # Doubly-Linked List
 |  |
