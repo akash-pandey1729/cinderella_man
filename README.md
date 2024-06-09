@@ -8,6 +8,7 @@ My collection of LeetCode questions that I have solved
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/akash-pandey1729/cinderella_man/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 # String
 |  |
@@ -33,6 +34,7 @@ My collection of LeetCode questions that I have solved
 | [0907-koko-eating-bananas](https://github.com/akash-pandey1729/cinderella_man/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/akash-pandey1729/cinderella_man/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
@@ -71,6 +73,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/akash-pandey1729/cinderella_man/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 # Depth-First Search
 |  |
