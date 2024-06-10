@@ -40,6 +40,7 @@ My collection of LeetCode questions that I have solved
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 | [1547-destination-city](https://github.com/akash-pandey1729/cinderella_man/tree/master/1547-destination-city) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/akash-pandey1729/cinderella_man/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
@@ -53,6 +54,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/akash-pandey1729/cinderella_man/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
 # Backtracking
@@ -63,6 +65,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/akash-pandey1729/cinderella_man/tree/master/0907-koko-eating-bananas) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/akash-pandey1729/cinderella_man/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 # Sliding Window
