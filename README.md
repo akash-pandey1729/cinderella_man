@@ -13,6 +13,7 @@ My collection of LeetCode questions that I have solved
 | [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [1547-destination-city](https://github.com/akash-pandey1729/cinderella_man/tree/master/1547-destination-city) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/akash-pandey1729/cinderella_man/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/3444-find-the-number-of-good-pairs-ii) |
 # String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ My collection of LeetCode questions that I have solved
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akash-pandey1729/cinderella_man/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3374-count-alternating-subarrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/3374-count-alternating-subarrays) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/3444-find-the-number-of-good-pairs-ii) |
 # Two Pointers
 |  |
 | ------- |
