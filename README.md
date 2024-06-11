@@ -10,6 +10,7 @@ My collection of LeetCode questions that I have solved
 | [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/akash-pandey1729/cinderella_man/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [1547-destination-city](https://github.com/akash-pandey1729/cinderella_man/tree/master/1547-destination-city) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/akash-pandey1729/cinderella_man/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # String
@@ -41,6 +42,7 @@ My collection of LeetCode questions that I have solved
 | [1016-subarray-sums-divisible-by-k](https://github.com/akash-pandey1729/cinderella_man/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/akash-pandey1729/cinderella_man/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [1547-destination-city](https://github.com/akash-pandey1729/cinderella_man/tree/master/1547-destination-city) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/akash-pandey1729/cinderella_man/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -58,6 +60,7 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/akash-pandey1729/cinderella_man/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/akash-pandey1729/cinderella_man/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
@@ -149,4 +152,5 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/akash-pandey1729/cinderella_man/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/akash-pandey1729/cinderella_man/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
