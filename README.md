@@ -18,6 +18,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 | [1547-destination-city](https://github.com/akash-pandey1729/cinderella_man/tree/master/1547-destination-city) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -26,6 +27,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -137,6 +139,7 @@ My collection of LeetCode questions that I have solved
 # Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 # Queue
 |  |
@@ -156,3 +159,7 @@ My collection of LeetCode questions that I have solved
 | [1137-height-checker](https://github.com/akash-pandey1729/cinderella_man/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/akash-pandey1729/cinderella_man/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
