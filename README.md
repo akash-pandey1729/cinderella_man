@@ -12,6 +12,7 @@ My collection of LeetCode questions that I have solved
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [1547-destination-city](https://github.com/akash-pandey1729/cinderella_man/tree/master/1547-destination-city) |
+| [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/akash-pandey1729/cinderella_man/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/3444-find-the-number-of-good-pairs-ii) |
 # String
@@ -53,6 +54,7 @@ My collection of LeetCode questions that I have solved
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/akash-pandey1729/cinderella_man/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akash-pandey1729/cinderella_man/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3374-count-alternating-subarrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/3374-count-alternating-subarrays) |
@@ -163,6 +165,7 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [1137-height-checker](https://github.com/akash-pandey1729/cinderella_man/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
+| [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/akash-pandey1729/cinderella_man/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # Dynamic Programming
 |  |
