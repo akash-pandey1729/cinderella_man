@@ -36,6 +36,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
 | [0286-walls-and-gates](https://github.com/akash-pandey1729/cinderella_man/tree/master/0286-walls-and-gates) |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
@@ -58,10 +59,12 @@ My collection of LeetCode questions that I have solved
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/akash-pandey1729/cinderella_man/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
