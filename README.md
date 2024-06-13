@@ -107,6 +107,7 @@ My collection of LeetCode questions that I have solved
 # Depth-First Search
 |  |
 | ------- |
+| [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
 | [0388-longest-absolute-file-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0388-longest-absolute-file-path) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/akash-pandey1729/cinderella_man/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -176,4 +177,17 @@ My collection of LeetCode questions that I have solved
 # Dynamic Programming
 |  |
 | ------- |
+| [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
+# Tree
+|  |
+| ------- |
+| [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
+# Binary Tree
+|  |
+| ------- |
+| [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
