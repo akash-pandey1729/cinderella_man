@@ -33,6 +33,7 @@ My collection of LeetCode questions that I have solved
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/akash-pandey1729/cinderella_man/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
 # Array
 |  |
@@ -55,6 +56,7 @@ My collection of LeetCode questions that I have solved
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/akash-pandey1729/cinderella_man/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akash-pandey1729/cinderella_man/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3374-count-alternating-subarrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/3374-count-alternating-subarrays) |
@@ -74,6 +76,7 @@ My collection of LeetCode questions that I have solved
 | [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/akash-pandey1729/cinderella_man/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/akash-pandey1729/cinderella_man/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
 # Backtracking
 |  |
