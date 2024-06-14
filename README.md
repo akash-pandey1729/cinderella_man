@@ -24,6 +24,7 @@ My collection of LeetCode questions that I have solved
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/akash-pandey1729/cinderella_man/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1547-destination-city](https://github.com/akash-pandey1729/cinderella_man/tree/master/1547-destination-city) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/akash-pandey1729/cinderella_man/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
@@ -158,6 +159,7 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0388-longest-absolute-file-path) |
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/akash-pandey1729/cinderella_man/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 # Queue
 |  |
