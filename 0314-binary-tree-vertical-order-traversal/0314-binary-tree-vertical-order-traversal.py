@@ -6,43 +6,26 @@
 #         self.right = right
 class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        if not root:
-            return []
-        dict1 = {}
-        def traverse(root,val):
-            if not root:
-                return
-            else:
-                traverse(root.left, val-1)
-                if root not in dict1:
-                    dict1[root] = val
-                traverse(root.right, val+1)
-        traverse(root,0)
-        dict2 = {}
-        def bfs(root):
-            stack = []
-            stack.append(root)
-            while stack:
-                t = len(stack)
-                for i in range(t):
-                    temp = stack.pop(0)
-                    if dict1[temp] not in dict2:
-                        dict2[dict1[temp]] = [temp.val]
-                    else:
-                        dict2[dict1[temp]].append(temp.val)
-                    if temp.left:
-                        stack.append(temp.left)
-                    if temp.right:
-                        stack.append(temp.right)
-        bfs(root)             
-        # print(dict2)  
-        dict2 = {k: dict2[k] for k in sorted(dict2)}
-        # print(dict2) 
+        node_dict = defaultdict(list)
+        def helper(node, pos, depth):
+            if not node:
+                return 0
+            node_dict[pos].append((depth, node.val))
+            helper(node.left, pos-1, depth+1)
+            helper(node.right, pos+1, depth+1)
+        helper(root, 0, 0)
         ans = []
-        for key in dict2:
-            ans.append(dict2[key][:])
+        keys = list(node_dict.keys())
+        keys.sort()
+        for key in keys:
+            node_dict[key].sort(key = lambda x:x[0])
+            temp = []
+            for _,v in node_dict[key]:
+                temp.append(v)
+            ans.append(temp[:])
         return ans
-                    
-                
+
             
+        
+        
         
