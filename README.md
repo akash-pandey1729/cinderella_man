@@ -5,6 +5,7 @@ My collection of LeetCode questions that I have solved
 # Hash Table
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
@@ -72,6 +73,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/akash-pandey1729/cinderella_man/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
@@ -107,6 +109,7 @@ My collection of LeetCode questions that I have solved
 # Depth-First Search
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
 | [0388-longest-absolute-file-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0388-longest-absolute-file-path) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
@@ -116,6 +119,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0286-walls-and-gates](https://github.com/akash-pandey1729/cinderella_man/tree/master/0286-walls-and-gates) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 # Union Find
@@ -182,6 +186,7 @@ My collection of LeetCode questions that I have solved
 # Tree
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
 # Binary Search Tree
 |  |
@@ -190,4 +195,5 @@ My collection of LeetCode questions that I have solved
 # Binary Tree
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
