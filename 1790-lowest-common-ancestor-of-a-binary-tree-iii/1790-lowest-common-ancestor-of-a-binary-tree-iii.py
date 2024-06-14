@@ -10,26 +10,12 @@ class Node:
 
 class Solution:
     def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
-        def getRoot(node):
-            if node.parent == None:
-                return node
-            return getRoot(node.parent)
-        root = getRoot(p)
+        path = set()
+        while p:
+            path.add(p.val)
+            p = p.parent
+        while q and q.val not in path:
+            q = q.parent
+        return q
 
-        def func(p,q,root):
-            if not root:
-                return None
-            if root.val == q.val or root.val==p.val:
-                return root
-            left = func(p,q, root.left)
-            right = func(p,q,root.right)
-
-            if (left==q and right ==p) or (left==p and right==q):
-                return root
-            if not left:
-                return right
-            if not right:
-                return left
-        
-        return func(p,q,root)
         
