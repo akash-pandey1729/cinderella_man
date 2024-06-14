@@ -63,6 +63,7 @@ My collection of LeetCode questions that I have solved
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/akash-pandey1729/cinderella_man/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/akash-pandey1729/cinderella_man/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
+| [1909-buildings-with-an-ocean-view](https://github.com/akash-pandey1729/cinderella_man/tree/master/1909-buildings-with-an-ocean-view) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/akash-pandey1729/cinderella_man/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -174,6 +175,7 @@ My collection of LeetCode questions that I have solved
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/akash-pandey1729/cinderella_man/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1909-buildings-with-an-ocean-view](https://github.com/akash-pandey1729/cinderella_man/tree/master/1909-buildings-with-an-ocean-view) |
 # Queue
 |  |
 | ------- |
@@ -224,3 +226,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/akash-pandey1729/cinderella_man/tree/master/0912-random-pick-with-weight) |
+# Monotonic Stack
+|  |
+| ------- |
+| [1909-buildings-with-an-ocean-view](https://github.com/akash-pandey1729/cinderella_man/tree/master/1909-buildings-with-an-ocean-view) |
