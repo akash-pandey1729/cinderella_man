@@ -1,22 +1,24 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        index_list = set()
         stack = []
+        bad = []
         for i in range(len(s)):
-            if s[i] == '(':
-                stack.append(i)
-            elif stack and s[i]==')':
-                stack.pop()
-            elif not stack and s[i]==')':
-                index_list.add(i)
-        ans = ""
-        # print(index_list)
-        # print(stack)
-        index_list = index_list.union(set(stack))
-        for i in range(len(s)):
-            if i in index_list:
+            if s[i].isalpha():
                 continue
-            ans+=s[i]
-        return ans
-
+            elif s[i]=="(":
+                stack.append(i)
+            elif s[i]==")" and len(stack)>0:
+                stack.pop()
+            elif s[i]==")" and len(stack)==0:
+                bad.append(i)
+        res = []
+        stack = set(stack)
+        bad = set(bad)
+        print(stack, bad)
+        for i in range(len(s)):
+            if i in stack or i in bad:
+                continue
+            res.append(s[i])
+        return "".join(res)
+            
         
