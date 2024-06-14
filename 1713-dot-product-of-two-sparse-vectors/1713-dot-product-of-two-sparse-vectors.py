@@ -1,20 +1,23 @@
 class SparseVector:
     def __init__(self, nums: List[int]):
-        self.list = nums
-        self.dict1 = set()
-        for i in range(len(nums)):
-            if nums[i]==0:
-                continue
-            else:
-                self.dict1.add(i)
+        self.nums = nums
         
 
     # Return the dotProduct of two sparse vectors
     def dotProduct(self, vec: 'SparseVector') -> int:
+        nums1 = vec.nums
+        dict1 = defaultdict(int)
+        dict2 = defaultdict(int)
+        for i in range(len(nums1)):
+            dict1[i] = nums1[i]
+        
+        for i in range(len(self.nums)):
+            dict2[i] = self.nums[i]
+        
         ans = 0
-        for i in range(len(self.list)):
-            if i in self.dict1 and i in vec.dict1:
-                ans+= self.list[i]*vec.list[i]
+        for key in dict1:
+            if key in dict2:
+                ans+= dict1[key]*dict2[key]
         return ans
         
 
