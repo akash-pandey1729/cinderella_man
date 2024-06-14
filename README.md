@@ -13,6 +13,7 @@ My collection of LeetCode questions that I have solved
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [1547-destination-city](https://github.com/akash-pandey1729/cinderella_man/tree/master/1547-destination-city) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/akash-pandey1729/cinderella_man/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/akash-pandey1729/cinderella_man/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -70,6 +71,7 @@ My collection of LeetCode questions that I have solved
 | [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
 | [0408-valid-word-abbreviation](https://github.com/akash-pandey1729/cinderella_man/tree/master/0408-valid-word-abbreviation) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/akash-pandey1729/cinderella_man/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 # Sorting
 |  |
 | ------- |
@@ -190,6 +192,7 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/akash-pandey1729/cinderella_man/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -199,3 +202,4 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/akash-pandey1729/cinderella_man/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
