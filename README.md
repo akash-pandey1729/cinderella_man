@@ -36,6 +36,7 @@ My collection of LeetCode questions that I have solved
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/akash-pandey1729/cinderella_man/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/akash-pandey1729/cinderella_man/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -51,6 +52,7 @@ My collection of LeetCode questions that I have solved
 | [0907-koko-eating-bananas](https://github.com/akash-pandey1729/cinderella_man/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/akash-pandey1729/cinderella_man/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/akash-pandey1729/cinderella_man/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/akash-pandey1729/cinderella_man/tree/master/1137-height-checker) |
@@ -81,6 +83,7 @@ My collection of LeetCode questions that I have solved
 | [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/akash-pandey1729/cinderella_man/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/akash-pandey1729/cinderella_man/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/akash-pandey1729/cinderella_man/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -183,6 +186,7 @@ My collection of LeetCode questions that I have solved
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/akash-pandey1729/cinderella_man/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/akash-pandey1729/cinderella_man/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/1217-relative-sort-array) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
