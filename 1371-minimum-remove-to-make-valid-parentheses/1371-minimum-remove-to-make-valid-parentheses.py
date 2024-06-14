@@ -14,7 +14,6 @@ class Solution:
         res = []
         stack = set(stack)
         bad = set(bad)
-        print(stack, bad)
         for i in range(len(s)):
             if i in stack or i in bad:
                 continue
