@@ -48,6 +48,7 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0040-combination-sum-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/0215-kth-largest-element-in-an-array) |
 | [0286-walls-and-gates](https://github.com/akash-pandey1729/cinderella_man/tree/master/0286-walls-and-gates) |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
@@ -86,6 +87,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/0215-kth-largest-element-in-an-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/akash-pandey1729/cinderella_man/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -147,6 +149,7 @@ My collection of LeetCode questions that I have solved
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/0215-kth-largest-element-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 | [2725-mice-and-cheese](https://github.com/akash-pandey1729/cinderella_man/tree/master/2725-mice-and-cheese) |
@@ -237,3 +240,11 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [1909-buildings-with-an-ocean-view](https://github.com/akash-pandey1729/cinderella_man/tree/master/1909-buildings-with-an-ocean-view) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/0215-kth-largest-element-in-an-array) |
+# Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/0215-kth-largest-element-in-an-array) |
