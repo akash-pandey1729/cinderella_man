@@ -21,6 +21,7 @@ My collection of LeetCode questions that I have solved
 # String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0071-simplify-path) |
 | [0388-longest-absolute-file-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0388-longest-absolute-file-path) |
 | [0408-valid-word-abbreviation](https://github.com/akash-pandey1729/cinderella_man/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
@@ -178,6 +179,7 @@ My collection of LeetCode questions that I have solved
 # Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0071-simplify-path) |
 | [0388-longest-absolute-file-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0388-longest-absolute-file-path) |
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/akash-pandey1729/cinderella_man/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
