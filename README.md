@@ -130,6 +130,7 @@ My collection of LeetCode questions that I have solved
 | [0388-longest-absolute-file-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0388-longest-absolute-file-path) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/akash-pandey1729/cinderella_man/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0975-range-sum-of-bst](https://github.com/akash-pandey1729/cinderella_man/tree/master/0975-range-sum-of-bst) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 # Breadth-First Search
 |  |
@@ -209,17 +210,20 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
+| [0975-range-sum-of-bst](https://github.com/akash-pandey1729/cinderella_man/tree/master/0975-range-sum-of-bst) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/akash-pandey1729/cinderella_man/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
 | [0912-random-pick-with-weight](https://github.com/akash-pandey1729/cinderella_man/tree/master/0912-random-pick-with-weight) |
+| [0975-range-sum-of-bst](https://github.com/akash-pandey1729/cinderella_man/tree/master/0975-range-sum-of-bst) |
 # Binary Tree
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
+| [0975-range-sum-of-bst](https://github.com/akash-pandey1729/cinderella_man/tree/master/0975-range-sum-of-bst) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/akash-pandey1729/cinderella_man/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 # Design
 |  |
