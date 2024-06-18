@@ -27,6 +27,7 @@ My collection of LeetCode questions that I have solved
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0680-valid-palindrome-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/akash-pandey1729/cinderella_man/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/akash-pandey1729/cinderella_man/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1547-destination-city](https://github.com/akash-pandey1729/cinderella_man/tree/master/1547-destination-city) |
@@ -39,6 +40,7 @@ My collection of LeetCode questions that I have solved
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/akash-pandey1729/cinderella_man/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/akash-pandey1729/cinderella_man/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akash-pandey1729/cinderella_man/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -187,6 +189,7 @@ My collection of LeetCode questions that I have solved
 | [0071-simplify-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0071-simplify-path) |
 | [0388-longest-absolute-file-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0388-longest-absolute-file-path) |
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/akash-pandey1729/cinderella_man/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/akash-pandey1729/cinderella_man/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1909-buildings-with-an-ocean-view](https://github.com/akash-pandey1729/cinderella_man/tree/master/1909-buildings-with-an-ocean-view) |
