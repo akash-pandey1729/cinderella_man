@@ -128,6 +128,7 @@ My collection of LeetCode questions that I have solved
 # Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akash-pandey1729/cinderella_man/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
 | [0339-nested-list-weight-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0339-nested-list-weight-sum) |
@@ -139,6 +140,7 @@ My collection of LeetCode questions that I have solved
 # Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akash-pandey1729/cinderella_man/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0286-walls-and-gates](https://github.com/akash-pandey1729/cinderella_man/tree/master/0286-walls-and-gates) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0339-nested-list-weight-sum) |
@@ -165,6 +167,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akash-pandey1729/cinderella_man/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/akash-pandey1729/cinderella_man/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 # Doubly-Linked List
 |  |
@@ -215,6 +218,7 @@ My collection of LeetCode questions that I have solved
 # Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akash-pandey1729/cinderella_man/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
 | [0975-range-sum-of-bst](https://github.com/akash-pandey1729/cinderella_man/tree/master/0975-range-sum-of-bst) |
@@ -229,6 +233,7 @@ My collection of LeetCode questions that I have solved
 # Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akash-pandey1729/cinderella_man/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
 | [0975-range-sum-of-bst](https://github.com/akash-pandey1729/cinderella_man/tree/master/0975-range-sum-of-bst) |
