@@ -80,6 +80,7 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
 | [0408-valid-word-abbreviation](https://github.com/akash-pandey1729/cinderella_man/tree/master/0408-valid-word-abbreviation) |
+| [0633-sum-of-square-numbers](https://github.com/akash-pandey1729/cinderella_man/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/akash-pandey1729/cinderella_man/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -173,6 +174,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/akash-pandey1729/cinderella_man/tree/master/0633-sum-of-square-numbers) |
 | [0912-random-pick-with-weight](https://github.com/akash-pandey1729/cinderella_man/tree/master/0912-random-pick-with-weight) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/akash-pandey1729/cinderella_man/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [3374-count-alternating-subarrays](https://github.com/akash-pandey1729/cinderella_man/tree/master/3374-count-alternating-subarrays) |
@@ -221,6 +223,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0333-largest-bst-subtree](https://github.com/akash-pandey1729/cinderella_man/tree/master/0333-largest-bst-subtree) |
+| [0633-sum-of-square-numbers](https://github.com/akash-pandey1729/cinderella_man/tree/master/0633-sum-of-square-numbers) |
 | [0912-random-pick-with-weight](https://github.com/akash-pandey1729/cinderella_man/tree/master/0912-random-pick-with-weight) |
 | [0975-range-sum-of-bst](https://github.com/akash-pandey1729/cinderella_man/tree/master/0975-range-sum-of-bst) |
 # Binary Tree
