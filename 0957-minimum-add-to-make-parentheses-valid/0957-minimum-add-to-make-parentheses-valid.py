@@ -1,15 +1,13 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        stack = []
+        open_ = 0
         bal = 0
         for i in range(len(s)):
-            if not stack and s[i] == ')':
-                bal+=1
-            elif stack and s[i] ==')':
-                stack.pop()
-            else:
-                stack.append('(')
-        return bal + len(stack)
-
-
+            if s[i]=="(":
+                open_+=1
+            if s[i]==")" and open_:
+                open_-=1
+            elif s[i]==")" and not open_:
+                bal+=1 
+        return bal + open_
         
