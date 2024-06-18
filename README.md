@@ -55,6 +55,7 @@ My collection of LeetCode questions that I have solved
 | [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/0215-kth-largest-element-in-an-array) |
 | [0286-walls-and-gates](https://github.com/akash-pandey1729/cinderella_man/tree/master/0286-walls-and-gates) |
+| [0346-moving-average-from-data-stream](https://github.com/akash-pandey1729/cinderella_man/tree/master/0346-moving-average-from-data-stream) |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
 | [0907-koko-eating-bananas](https://github.com/akash-pandey1729/cinderella_man/tree/master/0907-koko-eating-bananas) |
@@ -199,6 +200,7 @@ My collection of LeetCode questions that I have solved
 # Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/akash-pandey1729/cinderella_man/tree/master/0346-moving-average-from-data-stream) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-pandey1729/cinderella_man/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
@@ -247,6 +249,7 @@ My collection of LeetCode questions that I have solved
 # Design
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/akash-pandey1729/cinderella_man/tree/master/0346-moving-average-from-data-stream) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/akash-pandey1729/cinderella_man/tree/master/1713-dot-product-of-two-sparse-vectors) |
 # Randomized
 |  |
@@ -264,3 +267,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/0215-kth-largest-element-in-an-array) |
+# Data Stream
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/akash-pandey1729/cinderella_man/tree/master/0346-moving-average-from-data-stream) |
