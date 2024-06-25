@@ -8,6 +8,7 @@ My collection of LeetCode questions that I have solved
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
+| [0721-accounts-merge](https://github.com/akash-pandey1729/cinderella_man/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/akash-pandey1729/cinderella_man/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/akash-pandey1729/cinderella_man/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -28,6 +29,7 @@ My collection of LeetCode questions that I have solved
 | [0409-longest-palindrome](https://github.com/akash-pandey1729/cinderella_man/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/akash-pandey1729/cinderella_man/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0807-custom-sort-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akash-pandey1729/cinderella_man/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/akash-pandey1729/cinderella_man/tree/master/1044-find-common-characters) |
@@ -59,6 +61,7 @@ My collection of LeetCode questions that I have solved
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
 | [0636-exclusive-time-of-functions](https://github.com/akash-pandey1729/cinderella_man/tree/master/0636-exclusive-time-of-functions) |
+| [0721-accounts-merge](https://github.com/akash-pandey1729/cinderella_man/tree/master/0721-accounts-merge) |
 | [0907-koko-eating-bananas](https://github.com/akash-pandey1729/cinderella_man/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/akash-pandey1729/cinderella_man/tree/master/0912-random-pick-with-weight) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
@@ -99,6 +102,7 @@ My collection of LeetCode questions that I have solved
 | [0075-sort-colors](https://github.com/akash-pandey1729/cinderella_man/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/0215-kth-largest-element-in-an-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0721-accounts-merge](https://github.com/akash-pandey1729/cinderella_man/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/akash-pandey1729/cinderella_man/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -143,6 +147,7 @@ My collection of LeetCode questions that I have solved
 | [0339-nested-list-weight-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0339-nested-list-weight-sum) |
 | [0388-longest-absolute-file-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0388-longest-absolute-file-path) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
+| [0721-accounts-merge](https://github.com/akash-pandey1729/cinderella_man/tree/master/0721-accounts-merge) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/akash-pandey1729/cinderella_man/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/akash-pandey1729/cinderella_man/tree/master/0975-range-sum-of-bst) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
@@ -154,10 +159,12 @@ My collection of LeetCode questions that I have solved
 | [0314-binary-tree-vertical-order-traversal](https://github.com/akash-pandey1729/cinderella_man/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0339-nested-list-weight-sum) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
+| [0721-accounts-merge](https://github.com/akash-pandey1729/cinderella_man/tree/master/0721-accounts-merge) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 # Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/akash-pandey1729/cinderella_man/tree/master/0721-accounts-merge) |
 | [1753-path-with-minimum-effort](https://github.com/akash-pandey1729/cinderella_man/tree/master/1753-path-with-minimum-effort) |
 # Heap (Priority Queue)
 |  |
