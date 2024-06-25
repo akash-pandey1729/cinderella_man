@@ -185,6 +185,7 @@ My collection of LeetCode questions that I have solved
 # Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/akash-pandey1729/cinderella_man/tree/master/0050-powx-n) |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/akash-pandey1729/cinderella_man/tree/master/0633-sum-of-square-numbers) |
 | [0912-random-pick-with-weight](https://github.com/akash-pandey1729/cinderella_man/tree/master/0912-random-pick-with-weight) |
@@ -275,3 +276,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/akash-pandey1729/cinderella_man/tree/master/0346-moving-average-from-data-stream) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/akash-pandey1729/cinderella_man/tree/master/0050-powx-n) |
