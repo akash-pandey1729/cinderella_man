@@ -58,6 +58,7 @@ My collection of LeetCode questions that I have solved
 | [0346-moving-average-from-data-stream](https://github.com/akash-pandey1729/cinderella_man/tree/master/0346-moving-average-from-data-stream) |
 | [0523-continuous-subarray-sum](https://github.com/akash-pandey1729/cinderella_man/tree/master/0523-continuous-subarray-sum) |
 | [0529-minesweeper](https://github.com/akash-pandey1729/cinderella_man/tree/master/0529-minesweeper) |
+| [0636-exclusive-time-of-functions](https://github.com/akash-pandey1729/cinderella_man/tree/master/0636-exclusive-time-of-functions) |
 | [0907-koko-eating-bananas](https://github.com/akash-pandey1729/cinderella_man/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/akash-pandey1729/cinderella_man/tree/master/0912-random-pick-with-weight) |
 | [0917-boats-to-save-people](https://github.com/akash-pandey1729/cinderella_man/tree/master/0917-boats-to-save-people) |
@@ -194,6 +195,7 @@ My collection of LeetCode questions that I have solved
 | ------- |
 | [0071-simplify-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0071-simplify-path) |
 | [0388-longest-absolute-file-path](https://github.com/akash-pandey1729/cinderella_man/tree/master/0388-longest-absolute-file-path) |
+| [0636-exclusive-time-of-functions](https://github.com/akash-pandey1729/cinderella_man/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/akash-pandey1729/cinderella_man/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akash-pandey1729/cinderella_man/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/akash-pandey1729/cinderella_man/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
