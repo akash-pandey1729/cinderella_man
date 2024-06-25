@@ -1,5 +1,6 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
+        @cache
         def func(x,n):
             if n==0:
                 return 1
