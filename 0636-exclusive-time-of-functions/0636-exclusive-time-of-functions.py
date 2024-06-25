@@ -10,7 +10,7 @@ class Solution:  # revision, May 2024
                                                                 #    0    start     0    [0,0]   [0]
             if action == "start":                               #    0    start     2    [2,0]   [0,0]
                 if stack:                                       #    0     end      5    [6,0]   [0]
-                    ans[stack[-1]]+= timestamp - prev_time      #    1    start     6    [6,0]   [(0,1]
+                    ans[stack[-1]]+= timestamp - prev_time      #    1    start     6    [6,0]   [0,1]
                 stack.append(id)                                #    1     end      6    [6,1]   [0]
                 prev_time = timestamp                           #    0     end      7    [7,1]   []
             else:                                               
