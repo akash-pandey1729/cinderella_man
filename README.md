@@ -298,6 +298,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2405-minimum-number-of-keypresses](https://github.com/akash-pandey1729/cinderella_man/tree/master/2405-minimum-number-of-keypresses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -310,8 +311,18 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2405-minimum-number-of-keypresses](https://github.com/akash-pandey1729/cinderella_man/tree/master/2405-minimum-number-of-keypresses) |
 ## Greedy
 |  |
 | ------- |
+| [2405-minimum-number-of-keypresses](https://github.com/akash-pandey1729/cinderella_man/tree/master/2405-minimum-number-of-keypresses) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
+## String
+|  |
+| ------- |
+| [2405-minimum-number-of-keypresses](https://github.com/akash-pandey1729/cinderella_man/tree/master/2405-minimum-number-of-keypresses) |
+## Counting
+|  |
+| ------- |
+| [2405-minimum-number-of-keypresses](https://github.com/akash-pandey1729/cinderella_man/tree/master/2405-minimum-number-of-keypresses) |
 <!---LeetCode Topics End-->
