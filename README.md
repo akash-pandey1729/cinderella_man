@@ -293,6 +293,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -309,4 +310,8 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0350-intersection-of-two-arrays-ii) |
+## Greedy
+|  |
+| ------- |
+| [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 <!---LeetCode Topics End-->
