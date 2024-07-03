@@ -293,6 +293,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akash-pandey1729/cinderella_man/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 ## Hash Table
 |  |
@@ -311,10 +312,12 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akash-pandey1729/cinderella_man/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2405-minimum-number-of-keypresses](https://github.com/akash-pandey1729/cinderella_man/tree/master/2405-minimum-number-of-keypresses) |
 ## Greedy
 |  |
 | ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akash-pandey1729/cinderella_man/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2405-minimum-number-of-keypresses](https://github.com/akash-pandey1729/cinderella_man/tree/master/2405-minimum-number-of-keypresses) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 ## String
