@@ -293,6 +293,7 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-pandey1729/cinderella_man/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/akash-pandey1729/cinderella_man/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akash-pandey1729/cinderella_man/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/akash-pandey1729/cinderella_man/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 ## Hash Table
@@ -328,4 +329,8 @@ My collection of LeetCode questions that I have solved
 |  |
 | ------- |
 | [2405-minimum-number-of-keypresses](https://github.com/akash-pandey1729/cinderella_man/tree/master/2405-minimum-number-of-keypresses) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/akash-pandey1729/cinderella_man/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
